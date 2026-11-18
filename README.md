@@ -69,4 +69,4 @@ exercise, not a relearning one. See the full crosswalk table in
 
 **License:** MIT — see [LICENSE](LICENSE).
 
-**Author:** Mahmoud ("Michael") Al Kurdi · [LinkedIn](https://www.linkedin.com/in/mahmoud-michael-al-kurdi) · [Portfolio](https://km-it-ops.github.io) · [GitHub](https://github.com/KM-it-ops)
+**Author:** Mahmoud Al Kurdi · [LinkedIn](https://www.linkedin.com/in/mahmoud-al-kurdi-it/) · [Portfolio](https://km-it-ops.github.io) · [GitHub](https://github.com/KM-it-ops)
